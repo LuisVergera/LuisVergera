@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🌱 I’m currently learning ReactJS, in depth.
 - 👯 I’m looking to collaborate on any HTML, CSS or JavaScript and ReactJS related project..
